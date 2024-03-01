@@ -1,0 +1,13 @@
+.first{
+  margin-left: 400px;
+}
+.image{
+  width: 50%;
+  margin-left: 150px;
+}
+.bt{
+  margin-left: 250px;
+}
+.out{
+  overflow-x: hidden;
+}
